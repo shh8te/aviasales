@@ -1,0 +1,1 @@
+{"version":3,"sources":["global-styles.css"],"names":[],"mappings":"AAAE,KACE,sBACA,SACA,UACA,wBAA0B","file":"static/css/main.0bc96d45.css","sourcesContent":["  body {\n    font-family: 'Open Sans';\n    margin: 0;\n    padding: 0;\n    background-color: #F3F7FA;\n  }\n\n\n\n// WEBPACK FOOTER //\n// ./src/global-styles.css"],"sourceRoot":""}
